@@ -24,4 +24,17 @@ A simple React application to generate a list of the first 151 Pokémon, select 
     cd pokemonbattle
     ```
 
-2. Install the dependencies
+2. Install the dependencies:
+    ```sh
+    npm install
+    ```
+    or
+    ```sh
+    yarn install
+    ```
+
+### Running the App
+
+To start the development server, run:
+```sh
+npm start
